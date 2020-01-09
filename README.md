@@ -1,4 +1,4 @@
-# plnai-study-one
+# plani-study-one
 
 ## 일정
 
