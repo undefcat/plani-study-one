@@ -10,7 +10,7 @@
     - [sik2저장소](https://github.com/devpang20/vue-sik2)
     - [undefcat저장소](https://github.com/undefcat/plani-vue)
     - [junes3754저장소](https://github.com/junes3754/vue_study)
-    - [disenoloco저장소](https://github.com/disenoloco/plani)
+    - [disenoloco저장소](https://github.com/disenoloco/vue-plani)
      
   - 발표자료
     - 공유예정
