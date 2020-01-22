@@ -23,3 +23,6 @@
     - Vue 내부 원리
     
 - vue todo-app 시작 (2020-01-16)  
+
+- vue todo-mvc 튜토리얼 (2020-01-23)
+	- [plani-study-todomvc](https://github.com/undefcat/plani-study-todomvc)
