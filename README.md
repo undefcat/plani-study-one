@@ -32,7 +32,8 @@
 	- 참석자 4명
 	- [plani-study-todomvc](https://github.com/undefcat/plani-study-todomvc)
 	
-- vue todo-mvc 튜토리얼 vuex, vue-router 예정 (2020-01-29)
+- vue todo-mvc 튜토리얼 (2020-01-29)
+	- 중간 치킨 🍗
 	- 참석자 4명
 	- Git rebase 
 	- 간단한 앱 시연
