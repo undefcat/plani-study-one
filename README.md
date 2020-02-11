@@ -38,3 +38,7 @@
 	- Git rebase 
 	- 간단한 앱 시연
 	- [기초 완성본](https://github.com/devpang20/vue-sik2)
+
+- vue vuex, vue-router 튜토리얼 (2020-02-05)
+	- 기초 완성본에서 vuex 입히기
+	- vue-router 설정
