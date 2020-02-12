@@ -28,7 +28,7 @@
 		- git 기본기 (fast-foward merge, branch 등등) 
 		- vue 컴포넌트 쪼개기
 
-- vue todo-mvc 튜토리얼 (2020-01-23)
+- vue todo-mvc 튜토리얼 (2020-01-22)
 	- 참석자 4명
 	- [plani-study-todomvc](https://github.com/undefcat/plani-study-todomvc)
 	
