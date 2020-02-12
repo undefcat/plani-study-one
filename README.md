@@ -44,3 +44,4 @@
 	- vue-router 설정
 - vue 배포 gitpage 활용 (2020-02-05)
 	- 데이터 api 활용 [api페이지](https://jsonplaceholder.typicode.com)
+	- [신광식최종본](https://devpang20.github.io/vue-sik2/)
