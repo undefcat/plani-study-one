@@ -46,3 +46,4 @@
 	- 데이터 api 활용 [api페이지](https://jsonplaceholder.typicode.com)
 	- [신광식 최종본](https://devpang20.github.io/vue-sik2/)
 	- [김태훈 최종본](https://undefcat.github.io/)
+	- [김준성 최종본](https://junes3754.github.io/)
